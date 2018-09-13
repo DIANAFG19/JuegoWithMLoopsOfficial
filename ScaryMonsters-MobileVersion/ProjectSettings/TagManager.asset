@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - btn_Delante
+  - danoEnemigo
+  - cuboObstaculo
+  - puntoReaparicion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Menus
+  - BG
+  - Jugador
+  - Enemigos
+  - Plataformas
+  - Adornos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2835593755
+    locked: 0
+  - name: AdornosAtras
+    uniqueID: 1924972477
+    locked: 0
+  - name: Plataformas
+    uniqueID: 3138912247
+    locked: 0
+  - name: Enemigos
+    uniqueID: 2545770639
+    locked: 0
+  - name: Jugador
+    uniqueID: 2084663845
+    locked: 0
+  - name: Items
+    uniqueID: 15772219
+    locked: 0
